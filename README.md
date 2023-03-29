@@ -20,3 +20,7 @@ The data set provided was used to create the Surveillance Report: **Alcohol Sale
 
 
 My aim was to combine these two datasets to see if there was a correlation within the states between median household income and alcohol sales, during the Covid pandemic years. 
+
+For both data sets, I downloaded the .xlsx data file provided by the researchers and converted that into a CSV file for ease. Once that was done I cleaned the data to get rid of extraneous information, and merged the two using a pandas merge. Once that was completed, I wa sable to analyze the data to find: 
+
+FILL IN SUMMARY HERE
