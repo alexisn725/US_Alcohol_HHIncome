@@ -8,7 +8,7 @@ This project uses a data set provided by the US government as part of the Curren
 
 (https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html)
 
-I used the data table Table H-8. Median Household Income by State for this project, but there are several more tables that break down the findings of the Current Population Survey that are pretty interesting if you're keen to find more statistics on Median Household Income in the USA. 
+I used the data table **Table H-8. Median Household Income by State** for this project, but there are several more tables that break down the findings of the Current Population Survey that are pretty interesting if you're keen to find more statistics on Median Household Income in the USA. 
 
 ## Data Set 2 - Alcohol Sales by State
 
