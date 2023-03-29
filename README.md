@@ -1,8 +1,8 @@
 # US Alcohol Sales and Household Income
-# Code Kentucky Data 2
+## Code Kentucky Data 2
 
 
-## Data Set 1 - Median Household Income by State
+### Data Set 1 - Median Household Income by State
 
 This project uses a data set provided by the US government as part of the Current Population Survey with the *US Census Bureau*. The link to the table I used can be found here: 
 
@@ -10,7 +10,7 @@ This project uses a data set provided by the US government as part of the Curren
 
 I used the data table **Table H-8. Median Household Income by State** for this project, but there are several more tables that break down the findings of the Current Population Survey that are pretty interesting if you're keen to find more statistics on Median Household Income in the USA. 
 
-## Data Set 2 - Alcohol Sales by State
+### Data Set 2 - Alcohol Sales by State
 
 This project also uses a data set provided by the US government as part of their Surveillance Reports from the *National Institute on Alcohol Abuse and Alcoholism.* The link can be found here:  
 
@@ -29,15 +29,15 @@ This project was completed by mostly using Jupyter Notebook, but US_Alcohol_HHIn
 
 The required modules to run this data file is included in the requirements.txt file.
 
-# Requirement 1
+## Requirement 1
 
-# Requirement 2
+## Requirement 2
 
-# Requirement 3
+## Requirement 3
 
-# Requirement 4
+## Requirement 4
 
-# Requirement 5
+## Requirement 5
 
 
 Thank you for viewing!
