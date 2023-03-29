@@ -1,7 +1,8 @@
-# US Alcohol Sales and Household Income - Code Kentucky Data 2
+# US Alcohol Sales and Household Income
+# Code Kentucky Data 2
 
 
-##Data Set 1
+## Data Set 1
 
 This project uses a data set provided by the US government as part of the Current Population Survey with the *US Census Bureau*. The link to the table I used can be found here: 
 
@@ -9,7 +10,7 @@ This project uses a data set provided by the US government as part of the Curren
 
 I used the data table Table H-8. Median Household Income by State for this project, but there are several more tables that break down the findings of the Current Population Survey that are pretty interesting if you're keen to find more statistics on Median Household Income in the USA. 
 
-##Data Set 2
+## Data Set 2
 This project also uses a data set provided by the US government as part of their Surveillance Reports from the *National Institute on Alcohol Abuse and Alcoholism.* The link can be found here:  
 
 https://pubs.niaaa.nih.gov/publications/surveillance-covid-19/COVSALES.htm
