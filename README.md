@@ -29,13 +29,16 @@ This project was completed by mostly using Jupyter Notebook, but US_Alcohol_HHIn
 
 The required modules to run this data file is included in the requirements.txt file.
 
-## Requirement 1
+## Requirement 1: Read Data In
+- For both datasets, the .xlsx files were downloaded separately as a local CSV file, and read into a pandas dataframe.
 
-## Requirement 2
+## Requirement 2: Clean, Combine, Analyze Data
+-
 
-## Requirement 3
+## Requirement 3: Visualize Data
+-
 
-## Requirement 4
+## Requirement 4: Interpretation
 
 ## Requirement 5
 
