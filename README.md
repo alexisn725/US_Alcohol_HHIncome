@@ -34,6 +34,8 @@ FILL IN SUMMARY HERE
 | Gallons | | Int64
 | Population | | Int64
 | HHIncome | | Int64
+
+
 This project was completed by mostly using Jupyter Notebook, but US_Alcohol_HHIncome.ipynb or US_Alcohol_HHIncome.py should work with any editor. 
 
 The required modules to run this data file is included in the requirements.txt file.
