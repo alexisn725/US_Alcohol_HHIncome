@@ -28,12 +28,12 @@ FILL IN SUMMARY HERE
 | Column Name   | Description      | Data Type  |
 | ------------- |:-------------:| -----:|
 | Year          | calendar year, between 2019 and 2021 | Object |
-| Month  | centered      | Int64 |
-| State|neat      |  Object |
-| Beverage | | Object
-| Gallons | | Int64
-| Population | | Int64
-| HHIncome | | Int64
+| Month  | calendar month, in digit form from 1-12      | Int64 |
+| State| geographical location in US      |  Object |
+| Beverage | Type of alcoholic beverage: spirits, wine, beer| Object
+| Gallons | amount of gallons of beverages sold | Int64
+| Population | US population recorded, 14+ | Int64
+| HHIncome | Median household income | Int64
 
 
 This project was completed by mostly using Jupyter Notebook, but US_Alcohol_HHIncome.ipynb or US_Alcohol_HHIncome.py should work with any editor. 
