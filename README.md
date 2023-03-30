@@ -29,11 +29,11 @@ FILL IN SUMMARY HERE
 | ------------- |:-------------:| -----:|
 | Year          | calendar year, between 2019 and 2021 | Object |
 | Month  | calendar month, in digit form from 1-12      | Int64 |
-| State| geographical location in US      |  Object |
+| State| geographical location in USA     |  Object |
 | Beverage | Type of alcoholic beverage: spirits, wine, beer| Object
 | Gallons | amount of gallons of beverages sold | Int64
 | Population | US population recorded, 14+ | Int64
-| HHIncome | Median household income | Int64
+| HHIncome | Median household income per state, from Census Bureau | Int64
 
 
 This project was completed by mostly using Jupyter Notebook, but US_Alcohol_HHIncome.ipynb or US_Alcohol_HHIncome.py should work with any editor. 
@@ -50,7 +50,7 @@ The required modules to run this data file is included in the requirements.txt f
 -
 
 ## Requirement 4: Best Practices
--
+- A data dictionary was created that describes the columns of the final merged dataset
 
 ## Requirement 5: Interpretation
 -
