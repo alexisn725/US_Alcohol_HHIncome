@@ -23,7 +23,14 @@ My aim was to combine these two datasets to see if there was a correlation withi
 
 For both data sets, I downloaded the .xlsx data file provided by the researchers and converted that into a CSV file for ease. Once that was done I cleaned the data to get rid of extraneous information, and merged the two using a pandas merge. Once that was completed, I was able to analyze the data to find: 
 
-FILL IN SUMMARY HERE
+- There is a slight negative relationship between Household Income, and Alcohol Sales.
+- A positive correlation exists between Gallons and Population.
+  - this suggests that more research could be done to see if per capita, the sales are equivalent without population inflating the numbers.
+- A negative correlation exists between Population and Household Income.
+
+These findings came from the calculations performed on the merged dataframe and were shown using matplotlib and Tableau visualizations. 
+
+### Data Dictionary
 
 | Column Name   | Description      | Data Type  |
 | ------------- |:-------------:| -----:|
