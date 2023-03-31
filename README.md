@@ -61,7 +61,7 @@ The required modules to run this data file is included in the requirements.txt f
 
 ## Requirement 3: Visualize Data
 - 3 Tableau charts were created, and then put into a Tableau dashboard to display
-- 1 matplotlib chart was created 
+- 1 seaborn chart was created 
 
 ## Requirement 4: Best Practices
 - A data dictionary was created that describes the columns of the final merged dataset. It is above in the Readme.
