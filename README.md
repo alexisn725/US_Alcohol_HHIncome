@@ -44,22 +44,22 @@ The required modules to run this data file is included in the requirements.txt f
 - For both datasets, the .xlsx files were downloaded separately as a local CSV file, and read into a pandas dataframe.
 
 ## Requirement 2: Clean, Combine, Analyze Data
--The datasets were separately cleaned of extra columns and rows, making sure everything was uniform. A inner join pandas merge was used to join the two datasets into one merged dataframe. 
--Analysis was then done with the addition of some new calculations, such as finding: 
-  -total gallons of alcohol sold per state, per year
-  -average median household income per state
-  -correlation of alcohol sold and income
+- The datasets were separately cleaned of extra columns and rows, making sure everything was uniform. A inner join pandas merge was used to join the two datasets into one merged dataframe. 
+- Analysis was then done with the addition of some new calculations, such as finding: 
+  - total gallons of alcohol sold per state, per year
+  - average median household income per state
+  - correlation of alcohol sold and income
   amongst other things
   
 
 ## Requirement 3: Visualize Data
--3 Tableau charts were created, and then put into a Tableau dashboard to display
--1 matplotlib chart was created 
+- 3 Tableau charts were created, and then put into a Tableau dashboard to display
+- 1 matplotlib chart was created 
 
 ## Requirement 4: Best Practices
 - A data dictionary was created that describes the columns of the final merged dataset. It is above in the Readme.
 
 ## Requirement 5: Interpretation
--Code was annotated using Markdown cells in Jupyter notebook, as well as clear code comments. 
+- Code was annotated using Markdown cells in Jupyter notebook, as well as clear code comments. 
 
 Thank you for viewing!
